@@ -38,7 +38,7 @@ namespace Chess
         public static bool Pawn(int x1, int y1, int x2, int y2)
         {
             // Проверяем, что пешка может ходить только вперед на одну или две клетки
-            if (x1 == x2 && y2 == y1 )
+            if (x1 == x2 && y2 == y1 + 1 )
             {
                 // Обычный ход пешки на одну клетку
                 return true;
