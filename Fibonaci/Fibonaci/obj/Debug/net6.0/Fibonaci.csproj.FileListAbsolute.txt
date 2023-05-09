@@ -1,0 +1,15 @@
+C:\Users\dshva\source\repos\Fibonaci\Fibonaci\bin\Debug\net6.0\Fibonaci.exe
+C:\Users\dshva\source\repos\Fibonaci\Fibonaci\bin\Debug\net6.0\Fibonaci.deps.json
+C:\Users\dshva\source\repos\Fibonaci\Fibonaci\bin\Debug\net6.0\Fibonaci.runtimeconfig.json
+C:\Users\dshva\source\repos\Fibonaci\Fibonaci\bin\Debug\net6.0\Fibonaci.dll
+C:\Users\dshva\source\repos\Fibonaci\Fibonaci\bin\Debug\net6.0\Fibonaci.pdb
+C:\Users\dshva\source\repos\Fibonaci\Fibonaci\obj\Debug\net6.0\Fibonaci.csproj.AssemblyReference.cache
+C:\Users\dshva\source\repos\Fibonaci\Fibonaci\obj\Debug\net6.0\Fibonaci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dshva\source\repos\Fibonaci\Fibonaci\obj\Debug\net6.0\Fibonaci.AssemblyInfoInputs.cache
+C:\Users\dshva\source\repos\Fibonaci\Fibonaci\obj\Debug\net6.0\Fibonaci.AssemblyInfo.cs
+C:\Users\dshva\source\repos\Fibonaci\Fibonaci\obj\Debug\net6.0\Fibonaci.csproj.CoreCompileInputs.cache
+C:\Users\dshva\source\repos\Fibonaci\Fibonaci\obj\Debug\net6.0\Fibonaci.dll
+C:\Users\dshva\source\repos\Fibonaci\Fibonaci\obj\Debug\net6.0\refint\Fibonaci.dll
+C:\Users\dshva\source\repos\Fibonaci\Fibonaci\obj\Debug\net6.0\Fibonaci.pdb
+C:\Users\dshva\source\repos\Fibonaci\Fibonaci\obj\Debug\net6.0\Fibonaci.genruntimeconfig.cache
+C:\Users\dshva\source\repos\Fibonaci\Fibonaci\obj\Debug\net6.0\ref\Fibonaci.dll

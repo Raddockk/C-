@@ -1,0 +1,15 @@
+C:\Users\dshva\source\repos\ДЗ№6\ДЗ№6\bin\Debug\net6.0\ДЗ№6.exe
+C:\Users\dshva\source\repos\ДЗ№6\ДЗ№6\bin\Debug\net6.0\ДЗ№6.deps.json
+C:\Users\dshva\source\repos\ДЗ№6\ДЗ№6\bin\Debug\net6.0\ДЗ№6.runtimeconfig.json
+C:\Users\dshva\source\repos\ДЗ№6\ДЗ№6\bin\Debug\net6.0\ДЗ№6.dll
+C:\Users\dshva\source\repos\ДЗ№6\ДЗ№6\bin\Debug\net6.0\ДЗ№6.pdb
+C:\Users\dshva\source\repos\ДЗ№6\ДЗ№6\obj\Debug\net6.0\ДЗ№6.csproj.AssemblyReference.cache
+C:\Users\dshva\source\repos\ДЗ№6\ДЗ№6\obj\Debug\net6.0\ДЗ№6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dshva\source\repos\ДЗ№6\ДЗ№6\obj\Debug\net6.0\ДЗ№6.AssemblyInfoInputs.cache
+C:\Users\dshva\source\repos\ДЗ№6\ДЗ№6\obj\Debug\net6.0\ДЗ№6.AssemblyInfo.cs
+C:\Users\dshva\source\repos\ДЗ№6\ДЗ№6\obj\Debug\net6.0\ДЗ№6.csproj.CoreCompileInputs.cache
+C:\Users\dshva\source\repos\ДЗ№6\ДЗ№6\obj\Debug\net6.0\ДЗ№6.dll
+C:\Users\dshva\source\repos\ДЗ№6\ДЗ№6\obj\Debug\net6.0\refint\ДЗ№6.dll
+C:\Users\dshva\source\repos\ДЗ№6\ДЗ№6\obj\Debug\net6.0\ДЗ№6.pdb
+C:\Users\dshva\source\repos\ДЗ№6\ДЗ№6\obj\Debug\net6.0\ДЗ№6.genruntimeconfig.cache
+C:\Users\dshva\source\repos\ДЗ№6\ДЗ№6\obj\Debug\net6.0\ref\ДЗ№6.dll
